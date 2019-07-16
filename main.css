@@ -1,0 +1,28 @@
+p{
+  font-size: 18px;
+  font-family: 'Muli'
+}
+body{
+  background-color: lightcyan;
+}
+
+ul{
+  font-size: 18px;
+  font-family: 'Muli'
+}
+li{
+  color: gray;
+}
+a{
+  font-size: 18px;
+  font-family: 'Muli';
+  color: yellow;
+}
+center{
+  font-size: 18px;
+  color: lime;
+}
+#squashsmarts{
+  width: 540px;
+  height: 540px;
+}
